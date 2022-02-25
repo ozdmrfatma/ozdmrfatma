@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatma</h1>
+<h2 align="center">Hi 👋, I'm Fatma</h2>
 <h3 align="center">A software developer intern and computer engineering student from Turkey</h3>
 
 - 🌱 I’m currently learning **Java spring boot, elastic search etc.**
